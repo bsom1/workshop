@@ -6,8 +6,14 @@
 	<body>
 		<h1>Brishty's WebPage</h1>
 		<p>A web page about a fresmen</p>
-		<img src= >
-<br>
-		<a href= >To Repo</a>
+		<img src= 					"http://www.southernhillsanimalhospital.com/sites/site-1450/images/kittens.jpg">
+		<br>
+		<a href= "https://github.com/bsom1/workshop">To 			Repo</a>
+ 		<gd>Pass Times</gd>
+        	<oi>
+            	<li>Paint</li>
+			<li>Dance</li>
+        	<oi>
+
 	</body>
 </html>
